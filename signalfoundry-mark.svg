@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="SignalFoundry mark">
+  <rect width="256" height="256" rx="56" fill="#4F46E5"/>
+  <g fill="#fff">
+    <rect x="52" y="142" width="27" height="62" rx="7" opacity=".75"/>
+    <rect x="91" y="112" width="27" height="92" rx="7" opacity=".85"/>
+    <rect x="130" y="78" width="27" height="126" rx="7" opacity=".94"/>
+    <rect x="169" y="48" width="27" height="156" rx="7"/>
+  </g>
+</svg>
